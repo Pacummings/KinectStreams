@@ -1,0 +1,16 @@
+C:\Users\rapmaw\Desktop\KinectStreams\KinectStreams\bin\Debug\KinectStreams.exe.config
+C:\Users\rapmaw\Desktop\KinectStreams\KinectStreams\obj\Debug\KinectStreams.csprojResolveAssemblyReference.cache
+C:\Users\rapmaw\Desktop\KinectStreams\KinectStreams\obj\Debug\MainWindow.baml
+C:\Users\rapmaw\Desktop\KinectStreams\KinectStreams\obj\Debug\App.baml
+C:\Users\rapmaw\Desktop\KinectStreams\KinectStreams\obj\Debug\MainWindow.g.cs
+C:\Users\rapmaw\Desktop\KinectStreams\KinectStreams\obj\Debug\App.g.cs
+C:\Users\rapmaw\Desktop\KinectStreams\KinectStreams\obj\Debug\KinectStreams_MarkupCompile.cache
+C:\Users\rapmaw\Desktop\KinectStreams\KinectStreams\obj\Debug\KinectStreams.g.resources
+C:\Users\rapmaw\Desktop\KinectStreams\KinectStreams\obj\Debug\KinectStreams.Properties.Resources.resources
+C:\Users\rapmaw\Desktop\KinectStreams\KinectStreams\obj\Debug\KinectStreams.csproj.GenerateResource.Cache
+C:\Users\rapmaw\Desktop\KinectStreams\KinectStreams\bin\Debug\KinectStreams.exe
+C:\Users\rapmaw\Desktop\KinectStreams\KinectStreams\bin\Debug\KinectStreams.pdb
+C:\Users\rapmaw\Desktop\KinectStreams\KinectStreams\bin\Debug\Microsoft.Kinect.dll
+C:\Users\rapmaw\Desktop\KinectStreams\KinectStreams\bin\Debug\Microsoft.Kinect.xml
+C:\Users\rapmaw\Desktop\KinectStreams\KinectStreams\obj\Debug\KinectStreams.exe
+C:\Users\rapmaw\Desktop\KinectStreams\KinectStreams\obj\Debug\KinectStreams.pdb

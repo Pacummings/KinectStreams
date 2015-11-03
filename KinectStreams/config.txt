@@ -1,0 +1,57 @@
+// THIS FILE HOLDS CRITICAL CONSTANT VALUES USED IN THE KINECTSTREAMS APPLICATION
+// DISTANCES are in METERS, and TIME is in SECONDS
+// DO NOT include units on the line, only the number itself
+// Integers or floating point numbers may be used
+// Any additional lines entered in this config file MUST BE BLANK (no white space
+// allowed except for an empty line) OR START WITH "//"
+//
+// Distance from the Kinect the patient must reach for the Gait-speed test to end
+// Default: 1
+1
+//
+// Change in distance of a patient's ankle in order to fail the balance test
+// Default: 0.1
+0.1
+//
+// Runtime of the balance test (in seconds)
+// Default: 30
+30
+//
+// Height change that will indicate that the get-up-and-go test is starting
+// Default: 0.05
+0.05
+//
+// Distance from Kinect that indicates the patient has left the field of view
+// Default: 4
+4
+//
+// Upper value for a specific distance interval in which the patient will be recorded
+// as "coming back" in the get-up-and-go test
+// Default: 3.5
+3.5
+//
+// Lower value for a specific distance interval in which the patient will be recorded
+// as "coming back" in the get-up-and-go test
+// Default: 3 
+3
+//
+// Distance patient must be within when sitting down during the get-up-and-go test
+// Default: 2.5
+2.5
+//
+// Height change that will indicate that the chair-rise test is starting
+// Default: 0.05
+0.05
+//
+// Height change that will be considered as one normal repetition of the chair-rise test
+// Default: 0.1
+0.1
+//
+// Number of repetitions to be completed for the chair-rise test
+// Default: 5
+5
+//
+// Path of the KinectService.exe file, which needs to be started in order for the Kinect
+// to read frames
+// Default: C:\Windows\System32\Kinect\KinectService.exe
+C:\Windows\System32\Kinect\KinectService.exe
